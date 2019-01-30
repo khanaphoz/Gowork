@@ -4,6 +4,6 @@ import "fmt"
 
 func main(){
 
-	fmt.Println("Hello KBTG")
+	fmt.Println("Hello KBTG new")
 	
 }
